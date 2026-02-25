@@ -38,3 +38,14 @@ SET @consulta = 'SELECT cliente, SUM(monto) AS total_facturado
                  WHERE estado = "completado" 
                  GROUP BY cliente';
 EXEC sp_executesql @consulta;
+
+🚗 Información Adicional
+
+Disponibilidad: Total e incorporación inmediata.
+Movilidad: Carnet tipo B y vehículo propio.
+Ubicación: Sevilla, España.
+
+📫 Contacto
+
+Correo electrónico: ralmher95@gmail.com
+Teléfonos: 627 77 82 23 | 671 29 07 9
