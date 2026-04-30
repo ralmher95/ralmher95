@@ -5,7 +5,6 @@
 ### *Futura Desarrolladora Web | Especialista en Finanzas*
 
 [![Email](https://img.shields.io/badge/-ralmher95@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ralmher95@gmail.com)](mailto:ralmher95@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/)](https://www.linkedin.com/in/) <!-- Asegúrate de tener el enlace correcto -->
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/ralmher95)](https://github.com/ralmher95)
 
 </div>
@@ -19,7 +18,7 @@ Futura desarrolladora de aplicaciones web con formación previa en Finanzas y Co
 -   📞 **Contacto:** 627 77 82 23 | 671 29 07 93
 -   📍 **Ubicación:** Sevilla, España
 
-Aporto una perspectiva única al desarrollo de software, entendiendo la importancia de la viabilidad económica y la eficiencia de los proyectos desde dentro[reference:0].
+Aporto una perspectiva única al desarrollo de software, entendiendo la importancia de la viabilidad económica y la eficiencia de los proyectos desde dentro.
 
 ---
 
@@ -68,9 +67,9 @@ Análisis financiero y construcción de carteras multi-activo en tres perfiles d
 
 **¿Qué he aprendido con este proyecto?**
 
--   **Ingeniería Financiera:** Cálculo de métricas financieras clave desde cero `rentabilidad anualizada`, `volatilidad`, `máximo drawdown`, `ratio de Sharpe`[reference:6].
--   **Optimización Algorítmica:** Implementación de la optimización de Markowitz usando 50,000 carteras simuladas, sin depender de librerías externas[reference:7].
--   **Automatización de Reportes:** Generación automática de gráficos profesionales y documentos en `Word` listos para su interpretación[reference:8].
+-   **Ingeniería Financiera:** Cálculo de métricas financieras clave desde cero `rentabilidad anualizada`, `volatilidad`, `máximo drawdown`, `ratio de Sharpe`.
+-   **Optimización Algorítmica:** Implementación de la optimización de Markowitz usando 50,000 carteras simuladas, sin depender de librerías externas.
+-   **Automatización de Reportes:** Generación automática de gráficos profesionales y documentos en `Word` listos para su interpretación.
 
 **Lenguajes principales:** `Python 100%`.
 
@@ -82,15 +81,15 @@ Análisis financiero y construcción de carteras multi-activo en tres perfiles d
 
 [![Repo](https://img.shields.io/badge/-Repositorio-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/ralmher95/erp-financiero)
 
-Sistema integral de gestión financiera que automatiza la contabilidad mediante la digitalización de documentos físicos con tecnología **OCR** y la generación de reportes profesionales en **PDF**[reference:9].
+Sistema integral de gestión financiera que automatiza la contabilidad mediante la digitalización de documentos físicos con tecnología **OCR** y la generación de reportes profesionales en **PDF**.
 
 **¿Qué he aprendido con este proyecto?**
 
 -   **Arquitectura Profesional (Backend):** Implementación de `Autoloading PSR-4` para una carga de clases eficiente y una clara separación de la lógica de negocio[reference:10].
--   **Interoperabilidad de Sistemas:** Comunicación entre PHP y el motor externo **Tesseract OCR**, gestionando binarios y permisos del sistema operativo[reference:11].
+-   **Interoperabilidad de Sistemas:** Comunicación entre PHP y el motor externo **Tesseract OCR**, gestionando binarios y permisos del sistema operativo.
 -   **Base de Datos Optativa:** Diseño de esquemas `MySQL` complejos que mantienen la integridad contable y permiten consultas de balance de alto rendimiento[reference:12].
 
-**Lenguajes principales:** `PHP 81.4%`, `CSS 10.2%`, `JavaScript 8.0%`[reference:13].
+**Lenguajes principales:** `PHP 81.4%`, `CSS 10.2%`, `JavaScript 8.0%`.
 
 ---
 
