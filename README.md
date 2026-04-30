@@ -96,8 +96,8 @@ Sistema integral de gestión financiera que automatiza la contabilidad mediante 
 ## 📈 Aprendizajes Clave y Retos Superados
 
 -   **El Reto OCR:** Implementar la limpieza de imágenes y gestionar permisos en el servidor para maximizar la precisión de lectura fue la curva de aprendizaje más valiosa[reference:14].
--   **Eficiencia SQL:** Crear consultas complejas que generen balances en milisegundos sin comprometer el rendimiento[reference:15].
--   **Arquitectura Limpia y Segura:** Aplicar principios de arquitectura limpia, protección de sesiones y gestión de secretos mediante variables de entorno[reference:16][reference:17].
+-   **Eficiencia SQL:** Crear consultas complejas que generen balances en milisegundos sin comprometer el rendimiento.
+-   **Arquitectura Limpia y Segura:** Aplicar principios de arquitectura limpia, protección de sesiones y gestión de secretos mediante variables de entorno.
 -   **Integración DevOps:** Configurar un flujo CI/CD completo para un proyecto web full-stack, desde el desarrollo local hasta la puesta en producción.
 
 ---
