@@ -45,15 +45,15 @@ Aporto una perspectiva única al desarrollo de software, entendiendo la importan
 [![Repo](https://img.shields.io/badge/-Repositorio-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/ralmher95/montecarlo-simulator)
 [![Demo](https://img.shields.io/badge/-Ver%20Demo-0A66C2?style=flat-square&logo=GoogleChrome&logoColor=white)](https://ralmher95.github.io/montecarlo-simulator/)
 
-Aplicación web interactiva que proyecta la probabilidad de éxito de un plan de jubilación simulando miles de trayectorias de mercado aleatorias con **Geometric Brownian Motion (GBM)**[reference:1].
+Aplicación web interactiva que proyecta la probabilidad de éxito de un plan de jubilación simulando miles de trayectorias de mercado aleatorias con **Geometric Brownian Motion (GBM)**.
 
 **¿Qué he aprendido con este proyecto?**
 
--   **Full-Stack Moderno:** Integración de un frontend (`React` + `Vite`) desplegado en GitHub Pages con un backend (`PHP 8.1` + `Docker`) alojado en Render[reference:2].
+-   **Full-Stack Moderno:** Integración de un frontend (`React` + `Vite`) desplegado en GitHub Pages con un backend (`PHP 8.1` + `Docker`) alojado en Render.
 -   **Matemáticas Aplicadas:** Implementación de un modelo de simulación Monte Carlo para generar resultados estadísticos.
--   **Automatización CI/CD:** Orquestación de un pipeline completo con GitHub Actions que compila y despliega la aplicación automáticamente al hacer `push` a la rama `main`[reference:3].
+-   **Automatización CI/CD:** Orquestación de un pipeline completo con GitHub Actions que compila y despliega la aplicación automáticamente al hacer `push` a la rama `main`.
 
-**Lenguajes principales:** `JavaScript 45.2%`, `PHP 34.8%`, `CSS 18.0%`[reference:4].
+**Lenguajes principales:** `JavaScript 45.2%`, `PHP 34.8%`, `CSS 18.0%`.
 
 ---
 
@@ -63,7 +63,7 @@ Aplicación web interactiva que proyecta la probabilidad de éxito de un plan de
 
 [![Repo](https://img.shields.io/badge/-Repositorio-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/ralmher95/Inversiones)
 
-Análisis financiero y construcción de carteras multi-activo en tres perfiles de riesgo: conservador, equilibrado y arriesgado[reference:5].
+Análisis financiero y construcción de carteras multi-activo en tres perfiles de riesgo: conservador, equilibrado y arriesgado.
 
 **¿Qué he aprendido con este proyecto?**
 
@@ -85,9 +85,9 @@ Sistema integral de gestión financiera que automatiza la contabilidad mediante 
 
 **¿Qué he aprendido con este proyecto?**
 
--   **Arquitectura Profesional (Backend):** Implementación de `Autoloading PSR-4` para una carga de clases eficiente y una clara separación de la lógica de negocio[reference:10].
+-   **Arquitectura Profesional (Backend):** Implementación de `Autoloading PSR-4` para una carga de clases eficiente y una clara separación de la lógica de negocio.
 -   **Interoperabilidad de Sistemas:** Comunicación entre PHP y el motor externo **Tesseract OCR**, gestionando binarios y permisos del sistema operativo.
--   **Base de Datos Optativa:** Diseño de esquemas `MySQL` complejos que mantienen la integridad contable y permiten consultas de balance de alto rendimiento[reference:12].
+-   **Base de Datos Optativa:** Diseño de esquemas `MySQL` complejos que mantienen la integridad contable y permiten consultas de balance de alto rendimiento.
 
 **Lenguajes principales:** `PHP 81.4%`, `CSS 10.2%`, `JavaScript 8.0%`.
 
@@ -95,7 +95,7 @@ Sistema integral de gestión financiera que automatiza la contabilidad mediante 
 
 ## 📈 Aprendizajes Clave y Retos Superados
 
--   **El Reto OCR:** Implementar la limpieza de imágenes y gestionar permisos en el servidor para maximizar la precisión de lectura fue la curva de aprendizaje más valiosa[reference:14].
+-   **El Reto OCR:** Implementar la limpieza de imágenes y gestionar permisos en el servidor para maximizar la precisión de lectura fue la curva de aprendizaje más valiosa.
 -   **Eficiencia SQL:** Crear consultas complejas que generen balances en milisegundos sin comprometer el rendimiento.
 -   **Arquitectura Limpia y Segura:** Aplicar principios de arquitectura limpia, protección de sesiones y gestión de secretos mediante variables de entorno.
 -   **Integración DevOps:** Configurar un flujo CI/CD completo para un proyecto web full-stack, desde el desarrollo local hasta la puesta en producción.
