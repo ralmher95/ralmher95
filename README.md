@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 María del Rocío Almeida Hernández
+# 💻 María del Rocío Almeida Hernández
 
 ### *Futura Desarrolladora Web | Especialista en Finanzas*
 
